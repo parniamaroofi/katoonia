@@ -1,0 +1,1 @@
+import{_ as t,t as n,v as o,Z as r}from"./DaplssYx.js";const s={name:"DigitizeFrontendEmpty",data(){return{}},mounted(){},methods:{}};function a(e,c,d,p,l,m){return n(),o("div",null,[r(e.$slots,"default")])}const u=t(s,[["render",a]]);export{u as default};

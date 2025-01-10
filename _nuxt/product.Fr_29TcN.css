@@ -1,0 +1,1 @@
+.admin-product .upload-box{position:relative}.admin-product .upload-box:before{background-color:#00000080;border-radius:12px;content:"";height:0;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);transition:all .3s;width:0}.admin-product .upload-box.loading:before,.admin-product .upload-box:hover:before{height:100%;width:100%}

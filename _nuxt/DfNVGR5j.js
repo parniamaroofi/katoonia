@@ -1,0 +1,1 @@
+import{_ as e,t,v as o}from"./DaplssYx.js";const n={name:"DigitizeFrontendCoupons",setup(){return{}},mounted(){},methods:{}};function s(r,c,a,p,u,_){return t(),o("div")}const i=e(n,[["render",s]]);export{i as default};

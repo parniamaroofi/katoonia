@@ -1,0 +1,1 @@
+import{B as e}from"./Dudy9OWa.js";import{_ as t,r as n,t as a,v as r,z as s}from"./DaplssYx.js";const c={name:"loading",components:{BeatLoader:e}};function _(p,l,m,d,i,u){const o=n("beat-loader");return a(),r("div",null,[s(o,{loading:!0,color:"#C7333A",size:"10px",class:"mx-auto"})])}const B=t(c,[["render",_]]);export{B as _};
